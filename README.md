@@ -64,7 +64,8 @@ The medical report summarization and recommendation system's system design uses 
 ![WhatsApp Image 2025-02-21 at 12 25 38_66a0bbc2](https://github.com/user-attachments/assets/96c6d484-0470-4c71-9cd1-907f56c1fa2a)
 
 ##### Frontend Visualization:
-![WhatsApp Image 2025-02-28 at 20 05 01_291d7843](https://github.com/user-attachments/assets/87fa6cc8-765b-4e1e-92a6-139b3cd9d3a0)
+![WhatsApp Image 2025-02-28 at 19 58 24_838e0f15](https://github.com/user-attachments/assets/0ca6eed7-71d5-4eaf-b255-0bbba3c58f78)
+
 
 
 ## RESULTS AND IMPACT: 
